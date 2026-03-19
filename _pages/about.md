@@ -12,7 +12,7 @@ I am a Master's student in Transportation Engineering at the University of Washi
 ---
 
 ## 🔥 News
-- *2026.02* 🎉 Awarded **Cathy Strombom Memorial Scholarship ($5,000)**, WTS Puget Sound Chapter  
+- *2026.02* 🎉 Awarded **2026 Cathy Strombom Memorial Scholarship ($5,000)**, WTS Puget Sound Chapter  
 - *2025.12* 📄 Paper accepted at **ACM/IEEE SEC 2025 (EdgeCAV Workshop)** on diffusion models for multi-agent trajectory forecasting  
 - *2025.10* 📍 Presented poster at **Region 10 Transportation Conference** (Portland State University)  
 - *2024.04* 🎉 Awarded **Outstanding Student Overseas Study Scholarship ($3,000)**  
@@ -90,7 +90,7 @@ I am a Master's student in Transportation Engineering at the University of Washi
 
 ## 🏆 Honors & Awards
 
-- Cathy Strombom Memorial Scholarship ($5,000), 2026  
+- 2026 Cathy Strombom Memorial Scholarship ($5,000), 2026  
 - Outstanding Overseas Study Scholarship ($3,000), 2024  
 - First Prize, National Market Research Competition, 2023  
 - University level 
