@@ -25,7 +25,7 @@ I am a Master's student in Transportation Engineering at the University of Washi
   *Communication-aware Diffusion Models for Multi-Agent Trajectory Forecasting in Connected and Autonomous Vehicles*  
   ACM/IEEE SEC 2025, EdgeCAV Workshop  
 
-- **He, J.**, Chen, K., Wang, B.
+- **He, J.**, Chen, K., Wang, B.  
   *Diffusion-Based Trajectory Planning for Safe Overtaking Using OSHA Highway Dataset*  
   Region 10 Transportation Conference (Poster), 2025  
 
