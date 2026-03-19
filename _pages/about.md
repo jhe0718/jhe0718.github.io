@@ -25,7 +25,7 @@ I am a Master's student in Transportation Engineering at the University of Washi
   *Communication-aware Diffusion Models for Multi-Agent Trajectory Forecasting in Connected and Autonomous Vehicles*  
   ACM/IEEE SEC 2025, EdgeCAV Workshop  
 
-- **He, J.**  
+- **He, J.**, Chen, K., Wang, B.
   *Diffusion-Based Trajectory Planning for Safe Overtaking Using OSHA Highway Dataset*  
   Region 10 Transportation Conference (Poster), 2025  
 
@@ -80,11 +80,11 @@ I am a Master's student in Transportation Engineering at the University of Washi
 
 - **University of Washington**  
   M.S. in Transportation Engineering (2024–Present)  
-  GPA: 3.53  
+
 
 - **Jiangxi University of Science and Technology**  
   B.E. in Civil Engineering (2020–2024)  
-  GPA: 83.36/100 (Top 15%)  
+
 
 ---
 
@@ -93,7 +93,7 @@ I am a Master's student in Transportation Engineering at the University of Washi
 - Cathy Strombom Memorial Scholarship ($5,000), 2026  
 - Outstanding Overseas Study Scholarship ($3,000), 2024  
 - First Prize, National Market Research Competition, 2023  
-- Dean’s List (2×)  
+- University level 
 
 ---
 
